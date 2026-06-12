@@ -1,17 +1,14 @@
+<p align = "center">
+<img src="https://komarev.com/ghpvc/?username=R0CKETLAUNCHER&color=000000&style=plastic&label=crimes"/>
+</p>
 <div id="text" align="center">
 
-### **you guys　<ins>wanna</ins>　hear　me**
-<sup>spit　some　 <ins>HEATTTTT?!?!?!</ins></sup>
-<br/>
+[<img width="300" height="100" alt="bleh" src="https://files.catbox.moe/7zjs26.png" />
+](https://rentry.co/ashmaroonn)
 
 <p align = "center">
-<img src="https://komarev.com/ghpvc/?username=R0CKETLAUNCHER&color=965c5d&style=plastic&label=crimes"/>
-</p>
 
-#### [RENTRY](https://rentry.co/ashmaroonn)　　[SP](https://p1c0f4n.straw.page/)　　[ATA](https://sahlglitchyxx.atabook.org/)　　[TWITTER](https://x.com/keir1i_)
-<p align = "center">
-
-<img src="https://64.media.tumblr.com/99c50d7e7d73de22356257592c18b20c/17ce07e5a0c50030-0e/s2048x3072/8034eede4678041a235687a0727bec0306c77728.pnj" height="30%" width="30%"/>
+<img src="https://i.pinimg.com/1200x/e9/ff/09/e9ff09606a4182744b96f1bca99cf5aa.jpg" height="150%" width="250%"/>
 </p>
 
 <p align = "center"
