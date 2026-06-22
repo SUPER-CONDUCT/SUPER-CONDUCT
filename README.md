@@ -8,7 +8,7 @@
 
 <p align = "center">
 
-<img src="https://static.wikia.nocookie.net/incredibox-sprunki/images/9/9b/Limesvg.svg/revision/latest?cb=20241105133511" height="25%" width="50%"/>
+rmking this soon hopefully
 </p>
 
 <p align = "center"
