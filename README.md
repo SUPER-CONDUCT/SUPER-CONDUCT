@@ -10,7 +10,7 @@
 <br> 
  <div id="text" align="center">
 
-### [RENTRY](https://rentry.co/ashmaroonnn)
+### [RENTRY](https://rentry.co/ashmaroonn)
 
 </p>
 <p align="center">
