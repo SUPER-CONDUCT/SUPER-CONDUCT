@@ -20,7 +20,7 @@
 </p>
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=R0CKETLAUNCHER&label= crimes &color=000000&style=plastic">
+<img src="https://komarev.com/ghpvc/?username=R0CKETLAUNCHER&label= ۶۟ৎ &color=000000&style=plastic">
 </p>
 <p align="center">
 
