@@ -22,6 +22,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=R0CKETLAUNCHER&label= ۶۟ৎ &color=000000&style=plastic">
 </p>
+<div id="text" align="center">
+
+[<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/nlhwow.png" />
+](https://rentry.co/ashmaroonn) [<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/f6i374.png" />
+](https://p1c0f4n.straw.page/) [<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/d6fsae.png" />
+](https://sahlglitchyxx.atabook.org/)
 <p align="center">
 
 <img src="https://i.imgur.com/jGu6sTT.png">
