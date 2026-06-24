@@ -10,8 +10,7 @@
 <br> 
  <div id="text" align="center">
 
-[<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/7zjs26.png" />
-](https://rentry.co/ashmaroonn)
+### [RENTRY](https://rentry.co/ashmaroonnn)
 
 </p>
 <p align="center">
