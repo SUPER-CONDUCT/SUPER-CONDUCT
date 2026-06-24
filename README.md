@@ -10,7 +10,7 @@
 <br> 
  <div id="text" align="center">
 
-[<img width="200" height="50" alt="bleh" src="https://files.catbox.moe/7zjs26.png" />
+[<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/7zjs26.png" />
 ](https://rentry.co/ashmaroonn)
 
 </p>
