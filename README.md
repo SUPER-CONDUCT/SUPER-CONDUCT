@@ -1,14 +1,28 @@
 <p align = "center">
-<img src="https://komarev.com/ghpvc/?username=R0CKETLAUNCHER&color=000000&style=plastic&label=crimes"/>
+<img src="https://i.imgur.com/jGu6sTT.png">
 </p>
-<div id="text" align="center">
+<p align="center">
+<br>
+<img src="https://i.imgur.com/MwMKoiL.png">
+</p>
+<p align="center">
 
-[<img width="300" height="100" alt="bleh" src="https://files.catbox.moe/7zjs26.png" />
+<br> 
+ <div id="text" align="center">
+
+[<img width="200" height="50" alt="bleh" src="https://files.catbox.moe/7zjs26.png" />
 ](https://rentry.co/ashmaroonn)
 
-<p align = "center">
-
-rmking this soon hopefully
 </p>
+<p align="center">
+<br>
+<img src="https://i.imgur.com/MwMKoiL.png">
+</p>
+<p align="center">
 
-<p align = "center"
+<img src="https://komarev.com/ghpvc/?username=R0CKETLAUNCHER&label= crimes &color=000000&style=plastic">
+</p>
+<p align="center">
+
+<img src="https://i.imgur.com/jGu6sTT.png">
+</p>
