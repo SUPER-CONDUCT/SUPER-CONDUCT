@@ -25,7 +25,7 @@
 <div id="text" align="center">
 
 [<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/8r9df4.png" />
-](https://rentry.co/ashmaroonn) [<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/zbb9om.png" />
+](https://rentry.co/subsp4cetr1pmin3) [<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/zbb9om.png" />
 ](https://p1c0f4n.straw.page/) [<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/zs58nj.png" />
 ](https://sahlglitchyxx.atabook.org/)
 <p align="center">
