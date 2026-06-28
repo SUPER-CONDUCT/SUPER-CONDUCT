@@ -10,8 +10,8 @@
 </p>
 <div id="text" align="center">
 
-[<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/8r9df4.png" />
-](https://rentry.co/subsp4cetr1pmin3)  [<img width="150" height="50" alt="bleh" src="https://files.catbox.moe/zs58nj.png" />
+[<img width="70" height="25" alt="bleh" src="https://files.catbox.moe/8r9df4.png" />
+](https://rentry.co/subsp4cetr1pmin3)  [<img width="70" height="25" alt="bleh" src="https://files.catbox.moe/zs58nj.png" />
 ](https://sahlglitchyxx.atabook.org/)
 <p align="center">
 
