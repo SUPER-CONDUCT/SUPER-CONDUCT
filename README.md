@@ -11,10 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Unkempt&color=f3c3c5&size=22&center=true&vCenter=true&width=600&height=50&lines=true+love,+true+love!;looking+for+true+love!" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-<br>
-<img src="https://files.catbox.moe/8kebfb.gif">
-</p>
+
 <p align="center">
 <br>
 <img src="https://i.postimg.cc/Y0Zb58by/ddmegg7_527c5737_3669_4665_a89c_758b2d9a8455.gif">
