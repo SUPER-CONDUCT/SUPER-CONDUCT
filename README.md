@@ -1,16 +1,4 @@
-<p align = "center">
-<img src="https://file.garden/Zy7nsVKnFHAuCMhW/dividers/pink/pink111">
-</p>
 
-<p align="center">
-
-<p align="center">
-<p align="center">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Unkempt&color=f3c3c5&size=22&center=true&vCenter=true&width=600&height=50&lines=true+love,+true+love!;looking+for+true+love!" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
 <br>
