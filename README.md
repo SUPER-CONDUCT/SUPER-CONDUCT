@@ -1,8 +1,9 @@
 <p align="center" width="100%">
 
-  <img width="55%" src="https://file.garden/akEaL9X-mGilvUEH/Untitled40_20260628165526.png">
+  <img width="55%" src="https://file.garden/akEaL9X-mGilvUEH/Screenshot%202026-06-27%20223123.png">
 </p>
-
+<p align="center"> art by ani
+  
 <div align="center">
   <tr>
      
