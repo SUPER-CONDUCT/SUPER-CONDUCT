@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=1c0193&label=blime+fans" alt="litte fatties">
+</p>
 <p align="center"> <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled56_20260713193620.png" width="350" />
 
 
