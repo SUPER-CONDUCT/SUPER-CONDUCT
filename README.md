@@ -5,7 +5,7 @@
 <p align="center">
 ${\textsf{\color{#5d7c75} keith }}$ ${\textsf{\color{#456c6d}or }}$ ${\textsf{\color{#5d7c75} kuri }}$ ${\textsf{\color{#384844} he }}$ ${\textsf{\color{#ddd1d6} / }}$ ${\textsf{\color{#3a5c54} they }}$
 <br> 
-${\textsf{\color{#5fdacd} kuri }}$ ${\textsf{\color{#bf923e} cifer }}$ ${\textsf{\color{#250cb4} fictkin }}$ 
+${\textsf{\color{#c99c70} kuri }}$ ${\textsf{\color{#bf923e} cifer }}$ ${\textsf{\color{#250cb4} fictkin }}$ 
 <br>
 
 <p align="center">
