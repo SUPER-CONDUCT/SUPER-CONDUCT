@@ -3,9 +3,9 @@
 </p>
 <p align="center"> <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled56_20260713193620.png" width="350" />
 <p align="center">
-${\textsf{\color{#5d7c75} keith }}$ ${\textsf{\color{#456c6d}or }}$ ${\textsf{\color{#5d7c75} kuri }}$ ${\textsf{\color{#384844} he }}$ ${\textsf{\color{#ddd1d6} / }}$ ${\textsf{\color{#3a5c54} they }}$
+${\textsf{\color{#07def} keith }}$ ${\textsf{\color{#8ed7ff}or }}$ ${\textsf{\color{#bfdfe2} kuri }}$ ${\textsf{\color{#fefac2} he }}$ ${\textsf{\color{#ddd1d6} / }}$ ${\textsf{\color{#ffd87b} they }}$
 <br> 
-${\textsf{\color{#c99c70} kuri }}$ ${\textsf{\color{#bf923e} cifer }}$ ${\textsf{\color{#477867} fictkin }}$ 
+${\textsf{\color{#ffd1e9} kuri }}$ ${\textsf{\color{#badf93} cifer }}$ ${\textsf{\color{#cfe5b7} fictkin }}$ 
 <br>
 
 <p align="center">
