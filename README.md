@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=964c3f&label=ashfer+fans" alt="litte fatties">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=415c37&label=crimes" alt="litte fatties">
 </p>
 <p align="center"> <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled69_20260723224958.png" width="250" />
 <p align="center">
