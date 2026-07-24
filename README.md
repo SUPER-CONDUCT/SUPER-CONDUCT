@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=415c37&label=crimes" alt="litte fatties">
 </p>
-<p align="center"> <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled69_20260723224958.png" width="250" />
+<p align="center"> <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled69_20260723224958.png" width="150" />
 <p align="center">
 ${\textsf{\color{#07def} keith }}$ ${\textsf{\color{#8ed7ff}or }}$ ${\textsf{\color{#bfdfe2} kuri }}$ ${\textsf{\color{#fefac2} he }}$ ${\textsf{\color{#ddd1d6} / }}$ ${\textsf{\color{#ffd87b} they }}$
 <br> 
