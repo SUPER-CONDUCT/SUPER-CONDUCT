@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=mizilings&color=000000&style=flat" alt="viewers counter">
 <br><br>
 <p>
-<img src="https://64.media.tumblr.com/20cfc3e052be30dafcf4dc1c9411efff/25b70db67936ee90-23/s250x400/42c8137e9aa5b123937867703104b37064c8b325.gifv" height="50" align="center" alt="icon">
+<img src="https://64.media.tumblr.com/d839d237a944179bce3766551762cc30/2353fd501f08009a-b9/s500x750/70fced06ccf6b6d2d5e1f399d38a9aea50fd4330.gifv" height="50" align="center" alt="icon">
 </a>
 <a href="https://themagmaticmonstriosity.atabook.org/">
   <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled31_20260628170534.png"width="100">
