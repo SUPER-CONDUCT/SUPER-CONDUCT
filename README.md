@@ -1,7 +1,7 @@
-<p align="center"> <img src="https://files.catbox.moe/3urd52.png"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=arialings&color=000000&style=flat" alt="viewers counter"> <img src="https://files.catbox.moe/qbvbab.png"> </p>
+<p align="center"> <img src="https://files.catbox.moe/3urd52.png"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=mizilings&color=000000&style=flat" alt="viewers counter"> <img src="https://files.catbox.moe/qbvbab.png"> </p>
 <br/>
 <p align="center"> <img
-src="https://yt3.ggpht.com/_oL7MeFs7fsG8xivFr50mzkV_25TRykmRSdU8sjg3XsQM43VL0U4WYxzgYFWnrQZcP2GQvTPm-JHLA=s640-c-fcrop64=1,00000000ffffffff-nd-v1-rwa" width="200" height="auto"></img></a>
+src="https://i.pinimg.com/originals/cd/2c/4b/cd2c4b1032fe3555e0fcd3a5701878cb.gif" width="200" height="auto"></img></a>
 </p>
 <p align="center">
 </a>
