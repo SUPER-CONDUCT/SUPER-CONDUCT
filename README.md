@@ -1,8 +1,23 @@
- <p align="center">
-<a href="https://themagmaticmonstriosity.atabook.org/">ata</a>ㅤㅤ<a href="https://ariabooo.straw.page/">straw</a>
-    </p>
- <p align="center">
-   <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled76_20260807205224.png"height="150"
-    <div align="center">
-  
-
+<table border="0">
+<tr>
+<td align="center" valign="middle" width="60%">
+<img src="https://i.pinimg.com/736x/56/9c/ef/569cefbc366d3bb73f07832ece771ff8.jpg" width="100%" alt="Banner Artwork">
+</td>
+<td align="center" valign="middle" width="40%">
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=hi&color=000000&style=flat" alt="viewers counter">
+<br><br>
+<table border="1" cellpadding="8" cellspacing="0" width="80%">
+<tr><td align="center">im not</td></tr>
+</table>
+<br>
+<p>
+<img src="https://i.imgur.com/OYbsXFb.gif" height="20" align="center" alt="icon">
+<a href="https://themagmaticmonstriosity.atabook.org/"><b>新book</b></a>
+</p>
+<br>
+<table border="1" cellpadding="8" cellspacing="0" width="80%">
+<tr><td align="center">cute anymore!</td></tr>
+</table>
+</td>
+</tr>
+</table>
