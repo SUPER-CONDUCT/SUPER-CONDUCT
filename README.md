@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=yo+phon+lingin&color=000000&style=flat" alt="viewers counter">
 <br><br>
 <table border="1" cellpadding="8" cellspacing="0" width="80%">
-<tr><td align="center">im not</td></tr>
+<tr><td align="center">im your teddy bear, so bouncy!</td></tr>
 </table>
 <br>
 <p>
@@ -16,7 +16,7 @@
 </p>
 <br>
 <table border="1" cellpadding="8" cellspacing="0" width="80%">
-<tr><td align="center">cute anymore!</td></tr>
+<tr><td align="center">lovely little cutie, wont you cuddle me?</td></tr>
 </table>
 </td>
 </tr>
