@@ -1,7 +1,7 @@
 <table border="0">
 <tr>
 <td align="center" valign="middle" width="60%">
-<img src="https://i.pinimg.com/736x/99/32/3c/99323c54c62e11296862f55ebe7e6ac5.jpg" width="100%" alt="Banner Artwork">
+<img src="https://static.wikia.nocookie.net/zenless-zone-zero/images/2/28/Mindscape_Dialyn_Full.png/revision/latest/scale-to-width-down/1000?cb=20251126142345" width="100%" alt="Banner Artwork">
 </td>
 <td align="center" valign="middle" width="40%">
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=hi&color=000000&style=flat" alt="viewers counter">
