@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Emilys+Candy&color=b6c665&size=22&center=true&vCenter=true&width=600&height=50&duration=1600&pause=60&lines=i+waited+two+or+three+days,four+days,;waited+for+the+tap-tap+like+always.;i+waited+and+hated+this;i+created+a+bloody+mess." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Emilys+Candy&color=74c180&size=22&center=true&vCenter=true&width=600&height=50&duration=1600&pause=60&lines=i+waited+two+or+three+days,four+days,;waited+for+the+tap-tap+like+always.;i+waited+and+hated+this;i+created+a+bloody+mess." alt="Typing SVG" />
   </a>
 </p>
