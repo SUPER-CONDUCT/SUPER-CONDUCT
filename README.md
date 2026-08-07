@@ -1,11 +1,16 @@
-<p align="center"> <img src="https://files.catbox.moe/3urd52.png"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=mizilings&color=000000&style=flat" alt="viewers counter"> <img src="https://files.catbox.moe/qbvbab.png"> </p>
-<br/>
-<p align="center"> <img
-src="https://i.pinimg.com/originals/cd/2c/4b/cd2c4b1032fe3555e0fcd3a5701878cb.gif" width="200" height="auto"></img></a>
-</p>
+ <p align="center">
+<a href="https://themagmaticmonstriosity.atabook.org/">ata</a>ㅤㅤ<a href="https://ariabooo.straw.page/">straw</a>
+    </p>
+
+
 <p align="center">
-</a>
-<a href="https://themagmaticmonstriosity.atabook.org/">
-  <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled31_20260628170534.png"width="200">
-</a>
+   <img src="https://file.garden/akEaL9X-mGilvUEH/Untitled75_20260807155158.png"
+ 
+    
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Emilys+Candy&color=393b29&size=22&center=true&vCenter=true&width=600&height=50&duration=2000&pause=100&lines=i+waited+two+or+three+days,four+days,;waited+for+the+tap-tap+like+always.;i+waited+and+hated+this;i+created+a+bloody+mess." alt="Typing SVG" />
+  </a>
 </p>
