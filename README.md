@@ -1,7 +1,7 @@
 <table border="0">
 <tr>
 <td align="center" valign="middle" width="60%">
-<img src="https://i.pinimg.com/736x/5a/53/88/5a538859e862566da55a2f469ee7d18c.jpg" width="100%" alt="Banner Artwork">
+<img src="https://files.catbox.moe/gmyb9k.png" width="100%" alt="Banner Artwork">
 </td>
 <td align="center" valign="middle" width="40%">
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=yo&color=000000&style=flat" alt="viewers counter">
