@@ -11,7 +11,7 @@
 </table>
 <br>
 <p>
-<img src="https://i.imgur.com/YtLxGOV.gif" height="20" align="center" alt="icon">
+<img src="https://i.imgur.com/sRhIyyS.gif" height="20" align="center" alt="icon">
 <a href="https://themagmaticmonstriosity.atabook.org/"><b>新book</b></a>
 </p>
 <br>
