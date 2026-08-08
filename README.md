@@ -1,13 +1,13 @@
 <table border="0">
 <tr>
 <td align="center" valign="middle" width="60%">
-<img src="https://files.catbox.moe/gmyb9k.png" width="100%" alt="Banner Artwork">
+<img src="https://file.garden/akEaL9X-mGilvUEH/hankie.png" width="50%" alt="Banner Artwork">
 </td>
 <td align="center" valign="middle" width="40%">
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=yo&color=000000&style=flat" alt="viewers counter">
 <br><br>
 <table border="1" cellpadding="8" cellspacing="0" width="80%">
-<tr><td align="center">im your teddy bear, so bouncy!</td></tr>
+<tr><td align="center">And so on this day our hero had slain thirty men.</td></tr>
 </table>
 <br>
 <p>
@@ -16,7 +16,7 @@
 </p>
 <br>
 <table border="1" cellpadding="8" cellspacing="0" width="80%">
-<tr><td align="center">lovely little cutie, wont you cuddle me?</td></tr>
+<tr><td align="center">And he would later admit to having a good time doing it.</td></tr>
 </table>
 </td>
 </tr>
